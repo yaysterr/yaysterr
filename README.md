@@ -2,15 +2,17 @@
 
 ###
 
-<p align="center">My name is Kan. this year i'll turn 18's</p>
+<p align="center">My name is Kan. I'll turn 18 this year</p>
 
 ###
 
-<h2 align="left">Ai trainer , Website specialist</h2>
+<h2 align="left">Mid Student 🧑‍🎓</h2>
 
 ###
 
-<p align="left">🔭 base in Thailand <br>🌱 I’m currently learning Next.js , Valornat , Competitive Programming<br>📫 mail: vivoyou3632@gmail.com
+* 🔭 base in Thailand <br>
+* 🌱 I’m currently learning Next.js , Valornat , Competitive Programming <br>
+* 📫 mail: [vivoyou3632@gmail.com](mailto:vivoyou3632@gmail.com) <p/>
 
 ###
 
