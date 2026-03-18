@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Ai project<br>🌱 I’m currently learning Next.js , CyberSecurtity , new language<br>👯 I’m looking to collaborate on AI project<br>🤔 I’m looking for help with AI and java<br>💬 Ask me about Competitive Programming<br>📫 How to reach me: vivoyou3632@gmail.com<br>😄 Pronouns: he/him</p>
+<p align="left">🔭 base in Thailand <br>🌱 I’m currently learning Next.js , Valornat , Competitive Programming<br>📫 mail: vivoyou3632@gmail.com
 
 ###
 
